@@ -3,10 +3,15 @@ MySQL 5.7 Offline Installation
 
 
 Step 1 : Wget https://cdn.mysql.com//Downloads/MySQL-5.7/mysql-5.7.31-1.el7.x86_64.rpm-bundle.tar
+
 step 2 : tar -xvf mysql-5.7.31-1.el7.x86_64.rpm-bundle.tar
+
 step 3 : cd mysql-5.7.31-1.el7.x86_64.rpm-bundle
+
 step 4 : yum install createrepo
+
 step 5 : createrepo ./
+
 step 6 : vim /etc/yum.repos.d/mysqllocal.repo
 
 Copy  and past below line and save file
