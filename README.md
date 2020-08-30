@@ -26,7 +26,7 @@ Copy  and past below line and save file
 [Mysqllocalrepo]
 name=mysql 5.7.31 local repo
 
-baseurl=file:///path of the mysql-5.7.31-1.el7.x86_64.rpm-bundle
+baseurl=file:///path /of /the /mysql-5.7.31-1.el7.x86_64.rpm-bundle
 
 enabled=1
 
